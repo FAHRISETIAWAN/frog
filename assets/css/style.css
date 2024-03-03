@@ -2263,12 +2263,15 @@ select:visited {
   padding: 205px 0px 195px;
 }
 .ori-testimonial-section-1 .ori-vector-bg {
+  
   right: 0;
   top: 115px;
   left: -15px;
   margin: 0 auto;
   text-align: center;
 }
+
+
 
 .ori-testimonial-title {
   padding-bottom: 75px;
